@@ -17,7 +17,7 @@ public class DataBaseConnection implements DatabaseInterface {
 	
 	String username1="raipurbo1";
 	String password1="raipurbo1";
-
+	String password2="raipurbo1";
 
  
 
